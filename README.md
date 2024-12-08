@@ -71,16 +71,16 @@ I am open to opportunities in the domain of AI (LLMs, Computer Vision) and Softw
 -->
 
 ## Live Projects
-[![Portfolio]](https://abturjo.onrender.com/))
-[![EduByte]](https://github.com/EduByte-BUET/EduByte-CSE-408-Software-Engineering-Sessional)
+[Portfolio](https://abturjo.onrender.com/))
+[EduByte](https://github.com/EduByte-BUET/EduByte-CSE-408-Software-Engineering-Sessional)
 
 
 ## Github Overview
 
-<img align="left" alt="abturjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excellencior&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="abturjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abturjo&show_icons=true" />   &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abturjo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
- <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=TamimEhsan) -->
+ <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=abturjo) -->
 <br />
 <!--
 ## My Programming Performances
