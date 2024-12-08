@@ -1,19 +1,15 @@
-<!--![Banner](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg) -->
 
-[![CF](https://cp-logo.vercel.app/codeforces/TamimEhsan?logo=true)](https://codeforces.com/profile/TamimEhsan)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2vvSha0UzcXMM4lDGJJaYw?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
  <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.TamimEhsan) -->
 
 <!-- [![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/nskybytskyi/)
 [![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)](https://codeforces.com/profile/Skybytskyi.Nikita)
 [![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
-### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
+# <center> Hi there 👋 I am Apurbo Banik Turjo. </center>
+---
+But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
 
 - 💻 I ~like~ **love** coding
 - 🌱 I’m currently preparing for job interview
