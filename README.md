@@ -16,6 +16,7 @@ But you can find me everywhere with handle name abturjo. I am an undergraduate s
 
 I am open to opportunities in the domain of AI (LLMs, Computer Vision) and Software Engineering.
 
+<!--
 ## To connect with me:
 [<img align="left" alt="abturjo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
@@ -25,6 +26,7 @@ I am open to opportunities in the domain of AI (LLMs, Computer Vision) and Softw
 
 <br /> 
 -->
+
 ## Languages
 
 ![C/C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
