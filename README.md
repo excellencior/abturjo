@@ -7,10 +7,7 @@
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
 
-<h1 align="center">Hi there 👋 I am</h1>
-<p align="center">
-  <img src="https://via.placeholder.com/400x50?text=Apurbo+Banik+Turjo" alt="Apurbo Banik Turjo">
-</p>
+<h1 align="center">Hi there 👋 I am **𝔸𝕡𝕦𝕣𝕓𝕠 𝔹𝕒𝕟𝕚𝕜 𝕋𝕦𝕣𝕛𝕠**</h1>
 But you can find me everywhere with handle name abturjo. I am an undergraduate student at BUET CSE.
 
 - 💻 I have a passion for **solving problems**, especially when I can tackle them through code.
