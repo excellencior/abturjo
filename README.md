@@ -7,13 +7,13 @@
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
 
-<h1 align="center">Hi there 👋 I am Apurbo Banik Turjo </h1>
+<h1 align="center">Hi there 👋 I am <span style="color:blue; font-weight:bold;">Apurbo Banik Turjo</span></h1>
 But you can find me everywhere with handle name abturjo. I am an undergraduate student at BUET CSE.
 
 - 💻 I have a passion for **solving problems**, especially when I can tackle them through code.
 - 👨‍💼 I’m currently preparing for **job interview**
 - 🔍 I’m looking to **collaborate** on opensource and group projects.
-- ⚡ Fun fact: I love playing table tennis and exercising (gym)!
+- ⚡ Fun fact: I love playing table tennis and exercising!
 
 I am open to opportunities in the domain of AI (LLMs, Computer Vision) and Software Engineering.
 
