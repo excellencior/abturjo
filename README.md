@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3 style="display:inline;">Hi there 👋 I am</h3>
-  <h1 style="display:inline; font-size:2em;">𝔸𝕡𝕦𝕣𝕓𝕠 𝔹𝕒𝕟𝕚𝕜 𝕋𝕦𝕣𝕛𝕠</h1>
+  <h1>𝔸𝕡𝕦𝕣𝕓𝕠 𝔹𝕒𝕟𝕚𝕜 𝕋𝕦𝕣𝕛𝕠</h1>
 </div>
 But you can find me everywhere with handle name abturjo. I am an undergraduate student at BUET CSE.
 
