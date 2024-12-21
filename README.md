@@ -86,7 +86,7 @@ I am open to opportunities in the domain of AI (LLMs, Computer Vision) and Softw
 
 ## Github Overview
 
-<img align="left" alt="abturjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abturjo&show_icons=true" />   &nbsp;
+<!-- <img align="left" alt="abturjo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abturjo&show_icons=true" />   &nbsp; -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excellencior&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
  <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=abturjo) -->
