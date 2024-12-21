@@ -7,7 +7,7 @@
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
 
-<h1 align="center">Hi there 👋 I am <span style="color:blue; font-weight:bold;">Apurbo Banik Turjo</span></h1>
+<h1 align="center">Hi there 👋 I am <span style="color:blue">Apurbo Banik Turjo</span></h1>
 But you can find me everywhere with handle name abturjo. I am an undergraduate student at BUET CSE.
 
 - 💻 I have a passion for **solving problems**, especially when I can tackle them through code.
