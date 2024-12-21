@@ -30,11 +30,11 @@ I am open to opportunities in the domain of AI (LLMs, Computer Vision) and Softw
 - **Backend** - `Node.js` `Express.js`
 - **Frontend** - `React`
 - **Database** - `PostgreSQL` `OracleDB` `MongoDB`
-<!-- - **Data Stores** - `Redis` `Kafka` -->
-<!-- - **Testing** - `JUnit5` `Mockito` `Gatling` `Testify` `Test Container` -->
 - **Infrastructures** - `Docker` `Linux`
 - **Cloud** - `AWS (EC2), Azure Cloud Service`
 - **Productivity** - `Notion` `MS Powerpoint`
+<!-- - **Data Stores** - `Redis` `Kafka` -->
+<!-- - **Testing** - `JUnit5` `Mockito` `Gatling` `Testify` `Test Container` -->
 
 ## Languages
 
