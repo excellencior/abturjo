@@ -80,7 +80,7 @@ I am open to opportunities in the domain of AI (LLMs, Computer Vision) and Softw
 -->
 
 ## Live Projects
-[![Portfolio](https://img.shields.io/badge/-MyPortfolio%20BD-5672cd?style=flat)](https://abturjo.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/-MyPortfolio-5672cd?style=flat)](https://abturjo.onrender.com/)
 <!-- [EduByte](https://github.com/EduByte-BUET/EduByte-CSE-408-Software-Engineering-Sessional) -->
 
 
