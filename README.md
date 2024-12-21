@@ -11,8 +11,9 @@
 But you can find me everywhere with handle name abturjo. I am an undergraduate student at BUET CSE.
 
 - 💻 I have a passion for **solving problems**, especially when I can tackle them through code.
-- 👨‍💼 I’m currently preparing for job interview
-- 🔍 I’m looking to collaborate on opensource and group projects.
+- 👨‍💼 I’m currently preparing for **job interview**
+- 🔍 I’m looking to **collaborate** on opensource and group projects.
+- ⚡ Fun fact: I love playing table tennis and exercising (gym)!
 
 I am open to opportunities in the domain of AI (LLMs, Computer Vision) and Software Engineering.
 
